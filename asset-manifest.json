@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tesla-react-app-deployment-test/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/tesla-react-app-deployment-test/static/js/main.c4db7e86.chunk.js",
-    "main.js.map": "/tesla-react-app-deployment-test/static/js/main.c4db7e86.chunk.js.map",
-    "runtime-main.js": "/tesla-react-app-deployment-test/static/js/runtime-main.7319f592.js",
-    "runtime-main.js.map": "/tesla-react-app-deployment-test/static/js/runtime-main.7319f592.js.map",
-    "static/js/2.c13f75de.chunk.js": "/tesla-react-app-deployment-test/static/js/2.c13f75de.chunk.js",
-    "static/js/2.c13f75de.chunk.js.map": "/tesla-react-app-deployment-test/static/js/2.c13f75de.chunk.js.map",
-    "static/js/3.e00fedb7.chunk.js": "/tesla-react-app-deployment-test/static/js/3.e00fedb7.chunk.js",
-    "static/js/3.e00fedb7.chunk.js.map": "/tesla-react-app-deployment-test/static/js/3.e00fedb7.chunk.js.map",
+    "main.js": "/tesla-react-app-deployment-test/static/js/main.8e535a5b.chunk.js",
+    "main.js.map": "/tesla-react-app-deployment-test/static/js/main.8e535a5b.chunk.js.map",
+    "runtime-main.js": "/tesla-react-app-deployment-test/static/js/runtime-main.906c8e74.js",
+    "runtime-main.js.map": "/tesla-react-app-deployment-test/static/js/runtime-main.906c8e74.js.map",
+    "static/js/2.4c460b1d.chunk.js": "/tesla-react-app-deployment-test/static/js/2.4c460b1d.chunk.js",
+    "static/js/2.4c460b1d.chunk.js.map": "/tesla-react-app-deployment-test/static/js/2.4c460b1d.chunk.js.map",
+    "static/js/3.ca2fda55.chunk.js": "/tesla-react-app-deployment-test/static/js/3.ca2fda55.chunk.js",
+    "static/js/3.ca2fda55.chunk.js.map": "/tesla-react-app-deployment-test/static/js/3.ca2fda55.chunk.js.map",
     "index.html": "/tesla-react-app-deployment-test/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/tesla-react-app-deployment-test/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.c13f75de.chunk.js.LICENSE.txt": "/tesla-react-app-deployment-test/static/js/2.c13f75de.chunk.js.LICENSE.txt"
+    "static/js/2.4c460b1d.chunk.js.LICENSE.txt": "/tesla-react-app-deployment-test/static/js/2.4c460b1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7319f592.js",
-    "static/js/2.c13f75de.chunk.js",
+    "static/js/runtime-main.906c8e74.js",
+    "static/js/2.4c460b1d.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c4db7e86.chunk.js"
+    "static/js/main.8e535a5b.chunk.js"
   ]
 }
